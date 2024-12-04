@@ -1,0 +1,11 @@
+site_name: Mkdocs for Intelligent Textbooks
+
+nav:
+  - Home: index.md
+  - List of Chapters: chapters/index.md
+    - Chapter 1: chapters/chapter-1.md
+    - Chapter 2: chapters/chapter-2.md
+    - Chapter 3: chapters/chapter-3.md
+
+theme:
+  name: material
